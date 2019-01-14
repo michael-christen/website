@@ -3,7 +3,7 @@ module.exports = {
     title: `Puns & Projects`,
     author: `Michael Christen`,
     description: `My Personal Website.`,
-    siteUrl: `https://unknown/`,
+    siteUrl: `https://blog.mchristen.site/`,
     social: {
       twitter: ``,
     },
