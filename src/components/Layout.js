@@ -62,6 +62,8 @@ class Layout extends React.Component {
         }}
       >
         {header}
+		<br />
+		<Link to={`/timeline`}>Timeline</Link>
         {children}
         <footer>
           © {new Date().getFullYear()}, Built with
